@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Sedona</title>
+</head>
+<body>
+<header>
+  <nav>
+
+    <a><img src="images/logo.svg" width="138px" height="70px" alt="Логотип"></a>
+
+    <ul>
+      <li><a href="#">Информация</a></li>
+      <li><a href="#">Фото и видео</a></li>
+      <li><a href="#">Карта штата</a></li>
+      <li><a href="#">Гостиницы</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h1 class="visually-hidden">Добро пожаловать в Седону</h1>
+    <img src="images/welcome2.svg" width="457" height="352" alt="welcome to Sedona">
+  </section>
+
+  <section>
+    <h2 class="visually-hidden">Преимущества</h2>
+  <p>Седона — небольшой городок в Аризоне,
+    заслуживающий большего!
+  </p>
+
+  <p>Рассмотрим 5 причин, по которым Седона круче, чем гранд каньон!</p>
+    <ul>
+      <li>
+        <h3>Настоящий
+          городок</h3>
+
+        <span>— №1 —</span>
+
+          <p>Седона — не аттракцион для туристов, там течёт своя жизнь
+        </p>
+        <img src="images/image1.jpg" width="800" height="256" alt="Вид города">
+        <ul>
+          <li>
+            <h4>Жильё</h4>
+            <p>Рекомендуем пожить в настоящем мотеле, всё как в кино!</p>
+          </li>
+          <li>
+            <h4>Еда</h4>
+            <p>Всегда заказывайте фирменный бургер, вы не разочаруетесь!</p>
+          </li>
+          <li>
+            <h4>Сувениры</h4>
+            <p>Не только китайского, но и местного производства!</p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <h3>Там есть
+          Мост дьявола</h3>
+
+          <span>— №2 —</span>
+
+          <p>Да, по нему можно пройти! Если конечно вы осмелитесь
+          </p>
+        <img src="images/image2.jpg" width="800" height="256" alt="Мост дьявола">
+      </li>
+      <li>
+        <h3>Небольшая
+          площадь</h3>
+
+        <span>— №3 —</span>
+
+          <p>Все достопримечательности
+          находятся очень близко
+          </p>
+      </li>
+      <li>
+        <h3>Красивая
+          дорога</h3>
+
+        <span>— №4 —</span>
+
+          <p>Ехать в Седону из Лас-Вегаса совсем
+          не скучно!
+        </p>
+      </li>
+      <li>
+        <h3>Мало
+          туристов</h3>
+
+        <span>— №5 —</span>
+
+          <p>Большинство едет в гранд каньон
+          и толпится там
+          </p>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="visually-hidden">Поиск гостиницы</h2>
+    <h3>Заинтересовались?</h3>
+    <p>Укажите предполагаемые даты поездки,
+      и мы покажем вам лучшие предложения гостиниц в седоне</p>
+
+    <form action="hotel-search" method="get">
+      <fieldset>
+        <legend>Поиск гостинницы в Седоне</legend>
+      <p>
+        <label>
+          Дата заезда:
+          <input type="date" name="date-check-in" value="24-апреля-2017">
+          <button type="button" name="calendar">Календарь</button>
+        </label>
+      </p>
+      <p>
+        <label>
+          Дата выезда:
+          <input type="date" name="date-check-out" value="4-июля-2017">
+          <button type="button" name="calendar">Календарь</button>
+        </label>
+      </p>
+
+      <p>
+        <label>
+          Взрослые:
+          <button type="button">Увеличить</button>
+          <input type="number" name="grown-ups" value="2">
+          <button type="button">Уменьшитьь</button>
+        </label>
+      </p>
+      <p>
+        <label>
+          Дети:
+          <button type="button">Увеличить</button>
+          <input type="number" name="children" value="0">
+          <button type="button">Уменьшить</button>
+        </label>
+      </p>
+
+        <button type="submit" name="search-submit">Найти</button>
+      </fieldset>
+    </form>
+  </section>
+
+  <section>
+    <h2>Седона на карте</h2>
+  <a href="#"><img src="images/map.png" width="1200" height="594" alt="Карта штата"></a>
+  </section>
+</main>
+
+<footer>
+  <p>#visitSEDONA<br>
+    ТЕЛ: +7(495) 666-01-66
+  </p>
+  <div>
+    <ul>
+      <li><a href="#">Твиттер</a></li>
+      <li><a href="#">Фейсбук</a></li>
+      <li><a href="#">Ютюб</a></li>
+    </ul>
+  </div>
+  <p>Website by</p>
+  <a href="https://htmlacademy.ru"><img src="images/logo_htmlacademy.svg" alt="logo"></a>
+</footer>
+</body>
+</html>
