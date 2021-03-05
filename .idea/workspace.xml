@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c53db7c8-4a35-4500-b2d5-50df089cff3a" name="Default Changelist" comment="" />
+    <list default="true" id="c53db7c8-4a35-4500-b2d5-50df089cff3a" name="Default Changelist" comment="Added index and hotels pages. Added images.">
+      <change afterPath="$PROJECT_DIR$/css/images/checkbox-empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/checkbox-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/hotels-background1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/minus-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/minus-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/plus-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/plus-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/scale-devider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/scale-oval-norm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg-blue-btn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotels.html" beforeDir="false" afterPath="$PROJECT_DIR$/hotels.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CutShape.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/CutShape.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background_photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/background_photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/facebook.svg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/facebook.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-hamburger.svg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/icon-hamburger.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-house.svg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/icon-house.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-present.svg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/icon-present.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/minus.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/minus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/twitter.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/youtube.svg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/youtube.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -18,17 +46,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oFJlIkHteHKUUqqtu4rZPc1QJx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,12 +77,39 @@
       <option name="presentableId" value="Default" />
       <updated>1612876555239</updated>
       <workItem from="1612876556367" duration="14103000" />
-      <workItem from="1613142217298" duration="11134000" />
+      <workItem from="1613142217298" duration="11968000" />
+      <workItem from="1614622873095" duration="16905000" />
+      <workItem from="1614766217598" duration="17717000" />
     </task>
+    <task id="LOCAL-00001" summary="Added index and hotels pages. Added images.">
+      <created>1613591963436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613591963436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added index and hotels pages. Added images." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added index and hotels pages. Added images." />
   </component>
   <component name="WindowStateProjectService">
     <state x="189" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613325991382">
@@ -56,5 +121,9 @@
     </state>
     <state x="79" y="25" key="SettingsEditor/0.25.1280.706@0.25.1280.706" timestamp="1612966769908" />
     <state x="79" y="25" key="SettingsEditor/0.25.1280.708@0.25.1280.708" timestamp="1613588938114" />
+    <state x="276" y="54" key="Vcs.Push.Dialog.v2" timestamp="1613592047060">
+      <screen x="0" y="25" width="1280" height="703" />
+    </state>
+    <state x="276" y="54" key="Vcs.Push.Dialog.v2/0.25.1280.703@0.25.1280.703" timestamp="1613592047060" />
   </component>
 </project>
